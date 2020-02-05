@@ -18,3 +18,6 @@ this class scan and parse all the product details with great details.
 
 SellerParser:
 this class scan and parse all the sellers information
+
+Main Article
+https://roofman.me/2020/02/05/advanced-souq-com-scrapper/
